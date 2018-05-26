@@ -1,2 +1,2 @@
-# GCT
-PrintMaker art if twitter an P5.Js
+# Card
+Card if information an socialmedia links.
