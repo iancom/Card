@@ -1,2 +1,2 @@
 # Card
-Card if information an socialmedia links.
+Card with personal information and socialmedia links.
